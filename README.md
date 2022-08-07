@@ -1,1 +1,1 @@
-# Technolabs-Internship-Projects
+# Kaggle_Practice_Projects
